@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 4/13/22): DO NOT RELY ON THIS TO "HIDE YOUR ACTIVITY". Due to lack of updates, most companies can now detect TacoProxy. I may work on it during the summer.
+(Updated 4/13/22): DO NOT RELY ON THIsS TO "HIDE YOUR ACTIVITY". Due to lack of updates, most companies can now detect TacoProxy. I may work on it during the summer.
 ```
 # Security
 ### VirusTotal:
